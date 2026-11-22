@@ -1,0 +1,50 @@
+{
+ "LoGoNet (published)": {
+  "3d_moderate": [
+   84.8654,
+   63.6546,
+   75.2592
+  ],
+  "cars_40m": 44.2671
+ },
+ "LoGoNet (retrained)": {
+  "3d_moderate": [
+   85.4341,
+   63.4999,
+   75.4857
+  ],
+  "cars_40m": 44.5807
+ },
+ "GAPS, one weight per part (paper model)": {
+  "3d_moderate": [
+   86.0508,
+   67.8936,
+   77.6872
+  ],
+  "cars_40m": 51.9936
+ },
+ "GAPS, one weight per box": {
+  "3d_moderate": [
+   86.014,
+   65.526,
+   76.1104
+  ],
+  "cars_40m": 50.5349
+ },
+ "GAPS, one weight per direction": {
+  "3d_moderate": [
+   86.0344,
+   67.7293,
+   75.9121
+  ],
+  "cars_40m": 51.9201
+ },
+ "GAPS, one weight per part": {
+  "3d_moderate": [
+   86.0508,
+   67.8936,
+   77.6872
+  ],
+  "cars_40m": 51.9936
+ }
+}
